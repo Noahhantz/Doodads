@@ -5,6 +5,7 @@ if you only have one side value and two unknown lengths...above my paygrade
 '''
 #select two values and set two of the three sides to one of those two variables
 #set the remaining side equal to " "
+#if more than one side is set equal to " ', an error will be returned
 
 side1 = " " 
 side1_given = side1
