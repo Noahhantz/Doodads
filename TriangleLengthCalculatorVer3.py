@@ -1,8 +1,4 @@
-'''
-Simple triangle side calculator using a^2 + b^2 = c^2.
-input the two side lengths that you want to test and use the proper formula (instructions below in green coments.)
-if you only have one side value and two unknown lengths...above my paygrade
-'''
+#simple triangle side calculator, using a^2 + b^2 = c^2
 #select two values and set two of the three sides to one of those two variables
 #set the remaining side equal to " "
 #if more than one side is set equal to " ', an error will be returned
